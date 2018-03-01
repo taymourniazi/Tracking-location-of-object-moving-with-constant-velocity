@@ -28,5 +28,5 @@ Assumption: Constant Velocity
 
 
 
-### Source of Inspiation
+### Source of Inspiration
 https://balzer82.github.io/Kalman/
